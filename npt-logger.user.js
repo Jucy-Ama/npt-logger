@@ -8,6 +8,8 @@
 // @grant        GM_setValue
 // @grant        GM_getValue
 // @grant        GM_openInTab
+// @updateURL    https://github.com/Jucy-Ama/npt-logger/raw/refs/heads/main/npt-logger.user.js
+// @downloadURL  https://github.com/Jucy-Ama/npt-logger/raw/refs/heads/main/npt-logger.user.js
 // ==/UserScript==
 
 (function() {
